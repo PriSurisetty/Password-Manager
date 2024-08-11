@@ -4,6 +4,11 @@
 
 This project is a Password Manager built using Tkinter for the graphical user interface. It allows users to generate strong, random passwords and securely store them alongside associated website and email information. It also allows users to store pre-existing passwords. The passwords are stored in a JSON file, which can be searched later to retrieve saved credentials.
 
+
+[Watch the video](https://github.com/user-attachments/assets/96d6fd59-19ed-41ff-8293-012d9735c310)
+
+
+
 ## Features
 
 - **Password Generation**: Generates strong and random passwords using a combination of letters, numbers, and symbols.
